@@ -15,7 +15,7 @@ The end result is a user-friendly `Streamlit` application.
 
 ## Project Flowchart
 
-![Flowchart](demo/Project Flowchart.png)
+![Flowchart](demo/Project_Flowchart.png)
 
 ## Demo
 ![](demo/demo.gif)
