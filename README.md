@@ -43,7 +43,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd Ecommerce-QA-Platform-with-Google-Palm-in-LangChain
+  cd Ecommerce-QA-Platform-with-Google-Palm
 ```
 
 Install dependencies
