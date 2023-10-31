@@ -37,7 +37,7 @@ Before using this tool, make sure you have the following prerequisites installed
 Clone the project
 
 ```bash
-  git https://github.com/armanbabayan/News-research-tool-with-LangChain.git
+  git https://github.com/armanbabayan/Ecommerce-QA-Platform-with-Google-Palm.git
 ```
 
 Go to the project directory
