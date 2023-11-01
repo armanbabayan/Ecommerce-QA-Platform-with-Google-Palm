@@ -69,10 +69,17 @@ Start the server
 [![python](https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://www.python.org/)  
 
 <div style="flex: 50%; padding: 5px;">
-    <img src="https://seeklogo.com/images/G/google-palm-logo-D04D962B7F-seeklogo.com.png" alt="OpenAI" style="width:10%;">
-    <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="LangChain" style="width:10%;">
-    <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" style="width:10%;">
-  </div>
+    <a href="https://ai.google/discover/palm2/">
+        <img src="https://seeklogo.com/images/G/google-palm-logo-D04D962B7F-seeklogo.com.png" alt="OpenAI" style="width: 10%;">
+    </a>
+    <a href="https://www.langchain.com/">
+        <img src="https://avatars.githubusercontent.com/u/126733545?s=48&v=4" alt="LangChain" style="width: 10%;">
+    </a>
+    <a href="https://streamlit.io/">
+        <img src="https://avatars.githubusercontent.com/u/45109972?s=200&v=4" alt="Streamlit" style="width: 10%;">
+    </a>
+</div>
+
 
 
 ## Authors
